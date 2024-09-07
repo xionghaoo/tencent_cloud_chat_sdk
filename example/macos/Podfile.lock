@@ -1,0 +1,53 @@
+PODS:
+  - flutter_platform_alert (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - HydraAsync (2.0.6)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - tencent_cloud_chat_sdk (8.0.0):
+    - FlutterMacOS
+    - HydraAsync
+    - TXIMSDK_Plus_Mac (= 8.1.6122)
+  - TXIMSDK_Plus_Mac (8.1.6122)
+
+DEPENDENCIES:
+  - flutter_platform_alert (from `Flutter/ephemeral/.symlinks/plugins/flutter_platform_alert/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - path_provider_foundation (from `Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin`)
+  - shared_preferences_foundation (from `Flutter/ephemeral/.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - tencent_cloud_chat_sdk (from `Flutter/ephemeral/.symlinks/plugins/tencent_cloud_chat_sdk/macos`)
+
+SPEC REPOS:
+  trunk:
+    - HydraAsync
+    - TXIMSDK_Plus_Mac
+
+EXTERNAL SOURCES:
+  flutter_platform_alert:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_platform_alert/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  path_provider_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin
+  shared_preferences_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/shared_preferences_foundation/darwin
+  tencent_cloud_chat_sdk:
+    :path: Flutter/ephemeral/.symlinks/plugins/tencent_cloud_chat_sdk/macos
+
+SPEC CHECKSUMS:
+  flutter_platform_alert: b21b2b7d801e71c12ce9ffab618ff114ca9fc903
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  HydraAsync: 8d589bd725b0224f899afafc9a396327405f8063
+  path_provider_foundation: 3784922295ac71e43754bd15e0653ccfd36a147c
+  shared_preferences_foundation: b4c3b4cddf1c21f02770737f147a3f5da9d39695
+  tencent_cloud_chat_sdk: afa7e2cc11b107a7573607ccf1fed029defd7d33
+  TXIMSDK_Plus_Mac: 47425447a5cb201d76190ad992366c7eaf6979f7
+
+PODFILE CHECKSUM: 236401fc2c932af29a9fcf0e97baeeb2d750d367
+
+COCOAPODS: 1.15.2
